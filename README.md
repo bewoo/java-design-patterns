@@ -5,3 +5,9 @@
 
 ###Adapter
     바꿔서 재이용하기
+
+###Template Method
+    하위 클래스에서 구체적으로 처리하기
+
+###Factory Method
+    하위 클래스에서 인스턴스 작성하기
