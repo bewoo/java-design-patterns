@@ -1,3 +1,5 @@
+package common;
+
 import delegation.Print;
 import delegation.PrintBanner;
 
