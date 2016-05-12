@@ -11,3 +11,9 @@
 
 ###Factory Method
     하위 클래스에서 인스턴스 작성하기
+
+###Singleton
+    인스턴스를 한 개만 만들기
+
+###Prototype
+    복사해서 인스턴스 만들기
